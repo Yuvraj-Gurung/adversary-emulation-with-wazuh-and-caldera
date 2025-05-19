@@ -151,3 +151,21 @@ systemctl restart wazuh-manager
 
 ## **Conclusion**
 This project provides hands-on experience in simulating cyber threats and monitoring responses. By integrating **Wazuh** with **Caldera**, cybersecurity professionals can gain valuable insights into adversary behaviors and strengthen defense strategies.
+
+
+## *Walkthrough | Screenshots*
+
+**CALDERA Installation**
+
+<img src="project/image1.png"> <img src="project/image2.png"> <img src="project/image3.png"> <img src="project/image4.png"> <img src="project/image5.png"> <img src="project/image6.png"> <img src="project/image7.png">
+
+**WAZUH Installation**
+
+<img src="project/image8.png"> <img src="project/image9.png"> <img src="project/image10.png"> <img src="project/image11.png"> <img src="project/image12.png">
+
+**Wazuh Agent Enrollment**
+
+<img src="project/image13.png"> <img src="project/image14.png"> <img src="project/image15.png">
+
+
+
