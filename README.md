@@ -168,4 +168,14 @@ This project provides hands-on experience in simulating cyber threats and monito
 <img src="project/image13.png"> <img src="project/image14.png"> <img src="project/image15.png">
 
 
+**Sysmon Installation**
+
+<img src="project/image16.png">
+
+**Writing Custom Rules in Wazuh**
+
+<img src="project/image17.png"> <img src="project/image18.png"> <img src="project/image19.png"> <img src="project/image20.png"> <img src="project/image21.png">
+
+
+
 
